@@ -1,2 +1,2 @@
 # Blog
-i dont know what im doing
+Documentation something
